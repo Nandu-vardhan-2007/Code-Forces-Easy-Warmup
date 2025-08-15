@@ -1,3 +1,4 @@
+//281A
 import java.util.Scanner;
 public class WordCaptilization {
     public static void main(String[] args) {
@@ -7,3 +8,4 @@ public class WordCaptilization {
         System.out.println(result);
     }
 }
+
